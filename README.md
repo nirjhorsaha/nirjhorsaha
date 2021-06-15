@@ -11,7 +11,10 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nirjhorsaha) 
  
-![Profile views](https://gpvc.arturio.dev/nirjhorsaha)
+<!-- ![Profile views](https://gpvc.arturio.dev/nirjhorsaha) -->
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=nirjhorsaha.nirjhorsaha) -->
+![](https://komarev.com/ghpvc/?username=nirjhorsaha&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/nirjhorsaha?style=social)
 <br/>
 
@@ -26,6 +29,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
+ - 🎯 I’m focusing on **Competitive Programming**
 
 - 📫 How to reach me: **nirjhor.badhan25@gmail.com**
 
@@ -37,18 +41,20 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/topics/python" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://github.com/topics/java" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://github.com/topics/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://github.com/topics/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://github.com/topics/mysql" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>   
-    <a href="https://github.com/topics/git/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 <br/>
 
-## 🏆 Profile Trophy
+## 🏆 Profile Trophy 
+
 <br/>
 
 <p align="center">
@@ -57,7 +63,6 @@
     </a>
 </p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nirjhorsaha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <br/>
 
@@ -65,37 +70,40 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirjhor Saha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=nirjhorsaha&theme=tokyonight&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF)](https://git.io/streak-stats)"/>
-    </a>
+<p align='center'>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Nirjhor Saha's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com?user=nirjhorsaha&theme=dracula&hide_border=true&dates=F5A822" /></a>
 </p>
+
 
 <br/>
 
 ## 📊 Github Stats
 
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nirjhor Saha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nirjhorsaha&theme=react&show_icons=true&&line=5BCDEC&point=FFFFFF"/></a>
-
-<!--- Most Used Languages-->
-  
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <br/>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirjhorsaha&theme=dracula"/></a>
+
 <br/>
 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirjhorsaha&theme=dracula" /></a>
 <!--- Github Activity Graph-->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Nirjhor Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirjhorsaha&bg_color=0D1117&color=5BCDEC&point=FFFFFF" /></a>
+<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Nirjhor Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirjhorsaha&bg_color=0D1117&color=5BCDEC&point=FFFFFF" /></a> -->
 
 <br/>
 
 ## 🔁 Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/nirjhorsaha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/nirjhor_sb"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href = "https://www.instagram.com/nirjhor_badhan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<br>
+<p align="center">
+    <a href = "https://www.linkedin.com/in/nirjhorsaha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href = "https://twitter.com/nirjhor_sb"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href = "https://www.instagram.com/nirjhor_badhan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href = "https://www.facebook.com/nirjhor.badhan/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href = "https://t.me/nirjhor_saha"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+<br/>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/nirjhorsaha/count.svg) -->
+
+
+
+
 
