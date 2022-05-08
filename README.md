@@ -31,17 +31,19 @@
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
  - 🎯 I’m focusing on **Competitive Programming**
 
-- 📫 How to reach me: **nirjhor.badhan25@gmail.com**
+- 📫 Reach me: **nirjhor.badhan25@gmail.com**
 
 - ⚡ Fun fact **I love meeting new people and  eating food.**
 <br/>
 <br/>
 
-## 🚀 Languages and Tools
+## 🚀 Technologies
+
+### 👨‍💻 Programming Languages and Tools:
 <br/>
 
 <p align="center">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <!-- <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -49,9 +51,19 @@
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
 <br/>
+
+### 🧰 Libraries & Framework:
+<br/>
+
+<p align="center">
+    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
 
 ## 🏆 Profile Trophy 
 
@@ -101,9 +113,8 @@
 </p>
 <br/>
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/nirjhorsaha/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/nirjhorsaha/count.svg)
 
 
 
-
-
+![Profile views](https://gpvc.arturio.dev/nirjhorsaha) -->
