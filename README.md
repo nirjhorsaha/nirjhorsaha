@@ -44,14 +44,14 @@
 
 <p align="center">
     <!-- <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <a href = "https://www.java.com/en/"><img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <a href = "https://www.python.org/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <a href = "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <a href = "https://www.mysql.com/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <a href = "https://git-scm.com/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    <a href="https://www.overleaf.com/"><img src ="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
 <br/>
@@ -60,9 +60,9 @@
 <br/>
 
 <p align="center">
-    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <a href="https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <a href="https://pandas.pydata.org/"><img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <a href="https://numpy.org/"><img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <a href="https://getbootstrap.com/"><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ## 🏆 Profile Trophy 
