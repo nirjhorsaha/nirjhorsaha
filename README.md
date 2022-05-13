@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
- - 🎯 I’m focusing on **Competitive Programming**
+ - 🎯 I’m focusing on **Problem Solving**
 
 - 📫 Reach me: **nirjhor.badhan25@gmail.com**
 
