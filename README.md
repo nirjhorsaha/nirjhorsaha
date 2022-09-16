@@ -7,16 +7,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nirjhor</h1>
 <i> <h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3> </i>
 
-<br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nirjhorsaha) 
- 
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nirjhorsaha) -->
+
 <!-- ![Profile views](https://gpvc.arturio.dev/nirjhorsaha) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=nirjhorsaha.nirjhorsaha) -->
-![](https://komarev.com/ghpvc/?username=nirjhorsaha&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/nirjhorsaha?style=social)
-<br/>
+<!-- ![](https://komarev.com/ghpvc/?username=nirjhorsaha&style=flat-square) -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/nirjhorsaha?style=social) -->
+
+<p align="center">
+<a href=""><img src ="https://komarev.com/ghpvc/?username=nirjhorsaha&style=flat-square">
+<a href=""><img src ="https://img.shields.io/github/followers/nirjhorsaha?style=social">
+</p>
+
 
 <br/>
 
