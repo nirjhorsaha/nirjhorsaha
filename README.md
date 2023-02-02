@@ -96,16 +96,17 @@
 ## 📊 Github Stats
 
 <br/>
+<p align='center'>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirjhorsaha&theme=dracula"/></a>
      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirjhorsaha&theme=dracula"/></a>
-   
+</p>
 
 <br/>
-
+<p align='center'>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirjhorsaha&theme=dracula" /></a>
 <!--- Github Activity Graph-->
 <!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Nirjhor Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirjhorsaha&bg_color=0D1117&color=5BCDEC&point=FFFFFF" /></a> -->
-
+</p>
 <br/>
 
 ## 🔁 Connect with me:
