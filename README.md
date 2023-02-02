@@ -97,6 +97,8 @@
 
 <br/>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirjhorsaha&theme=dracula"/></a>
+     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirjhorsaha&theme=dracula"/></a>
+   
 
 <br/>
 
