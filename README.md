@@ -28,38 +28,50 @@
 
 <!-- - 🔭 I’m currently working on **[]()** -->
 
-- 🌱 I’m currently learning **DS & Algo,Django.**
+- 🌱 Currently learning **React**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
- - 🎯 I’m focusing on **Problem Solving**
+ - 🎯 Focusing on **Problem Solving**
+ 
+ - 💬 Ask me about MERN Stack
 
 - 📫 Reach me: **nirjhor.badhan25@gmail.com**
 
-- ⚡ Fun fact **I love meeting new people and  eating food.**
+- ⚡ Fun fact **I love meeting new people and eating food.**
 <br/>
-<br/>
+
 
 ## 🚀 Technologies
 
-### 👨‍💻 Programming Languages and Tools:
+<!-- - ### 👨‍💻 Programming Languages and Tools: -->
 <br/>
 
 <p align="center">
-    <!-- <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
+    <!-- <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-    badge&logo=c%2B%2B&logoColor=white"> 
     <a href = "https://www.java.com/en/"><img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    -->
+    <a href = ""><img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <a href = "https://www.python.org/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <a href = "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <a href = ""><img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <a href="https://getbootstrap.com/"><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <a href = "https://tailwindcss.com/"><img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <a href = "https://www.mysql.com/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <a href = "https://git-scm.com/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <a href="https://www.overleaf.com/"><img src ="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    <a href="https://pandas.pydata.org/"><img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <a href="https://numpy.org/"><img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <a href = "https://daisyui.com/" ><img src ="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=DaisyUI&logoColor=white">
+    <a href = ""><img src ="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+    
 </p>
 
 <br/>
-
+<!-- -
 ### 🧰 Libraries & Framework:
 <br/>
 
@@ -68,6 +80,7 @@
     <a href="https://numpy.org/"><img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <a href="https://getbootstrap.com/"><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
+-->
 
 ## 🏆 Profile Trophy 
 
@@ -75,7 +88,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirjhor Saha's Trophy" src="https://github-profile-trophy.vercel.app/?username=nirjhorsaha&theme=onedark"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirjhor Saha's Trophy" src="https://github-profile-trophy.vercel.app/?username=nirjhorsaha&theme=onedark&row=1&column=7"/>
     </a>
 </p>
 
@@ -114,8 +127,6 @@
 <p align="center">
     <a href = "https://www.linkedin.com/in/nirjhorsaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href = "https://twitter.com/nirjhor_sb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href = "https://www.instagram.com/nirjhor_badhan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href = "https://www.facebook.com/nirjhor.badhan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href = "https://t.me/nirjhor_saha" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 <br/>
