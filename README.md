@@ -28,7 +28,7 @@
 
 <!-- - 🔭 I’m currently working on **[]()** -->
 
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **Next.Js**
 
 - 👯 Looking to collaborate on **OpenSource Projects**
 
@@ -57,6 +57,7 @@
     <a href = "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <a href = ""><img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <a href = ""><img src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
      <a href = ""><img src ="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
     <a href="https://getbootstrap.com/"><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <a href = "https://tailwindcss.com/"><img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -67,8 +68,9 @@
     <a href="https://pandas.pydata.org/"><img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <a href="https://numpy.org/"><img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <a href = "" ><img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <!-- <a href = ""><img src ="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"> -->
     <a href = ""><img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <a href = ""><img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <a href = ""><img src =https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <a href = ""><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <a href = ""><img src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
     <a href = ""><img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
