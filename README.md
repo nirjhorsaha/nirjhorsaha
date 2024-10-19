@@ -70,7 +70,7 @@
     <a href = "" ><img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <a href = ""><img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <a href = ""><img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-    <a href = ""><img src =https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <a href = ""><img src ="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <a href = ""><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <a href = ""><img src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
     <a href = ""><img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
