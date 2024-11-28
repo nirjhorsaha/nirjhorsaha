@@ -4,12 +4,12 @@
 
 <!-- <a href="#"><img width="100%" height="auto" src="./dev.gif" height="175px"/></a> -->
 
-<a href="#"><img width="100%" height="auto" src="./aesthetic.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./Technology_Banner.png" height="175px"/></a>
 
 <!-- ![Header](./github-header-image.png) -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nirjhor</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nirjhor</h1> -->
 <i> <h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3> </i>
 
 
